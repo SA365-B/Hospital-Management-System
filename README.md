@@ -34,4 +34,28 @@ Follow these steps to compile and run the Hospital Management System:
 1. **Clone the repository or download the source code:**
    ```bash
    git clone https://github.com/your-username/hospital-management-system.git
-   cd hospitalcodefinal
+
+2. **Compile the source code:**
+   Use the following command to compile the project:
+   ```bash
+   gcc hospitalcodefinal.c -o hospital_management
+3. **Run the executable:**
+   After successful compilation, run the executable file:
+    ```bash
+    ./hospital_management
+
+4. **Follow the on-screen instructions:**
+   The system will guide you through the process of adding, editing, searching, and deleting patient records.
+
+## Project Structure
+
+hospital_management.c: The main source code file containing all the logic and functionality of the Hospital Management System.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+
+Inspired by the need for simple and effective healthcare management solutions.
+Developed as part of a learning exercise in C programming.
