@@ -38,11 +38,11 @@ Follow these steps to compile and run the Hospital Management System:
 2. **Compile the source code:**
    Use the following command to compile the project:
    ```bash
-   gcc hospitalcodefinal.c -o hospital_management
+   gcc hospitalcodefinal.c -o hospitalcodefinal
 3. **Run the executable:**
    After successful compilation, run the executable file:
     ```bash
-    ./hospital_management
+    ./hospitalcodefinal
 
 4. **Follow the on-screen instructions:**
    The system will guide you through the process of adding, editing, searching, and deleting patient records.
