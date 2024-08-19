@@ -33,5 +33,5 @@ Follow these steps to compile and run the Hospital Management System:
 
 1. **Clone the repository or download the source code:**
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git](https://github.com/SA365-B/Hospital-Management-System.git
+   git clone https://github.com/your-username/hospital-management-system.git
    cd hospitalcodefinal
